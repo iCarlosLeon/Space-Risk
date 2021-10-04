@@ -1,0 +1,13 @@
+package com.riskv5
+
+import androidx.appcompat.app.AppCompatActivity
+import android.os.Bundle
+
+class interfaz : AppCompatActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_interfaz)
+
+    }
+
+}

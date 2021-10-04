@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/carlo/AndroidStudioProjects/riskv5/app/src/main/res/drawable/covid _background.xml" value="0.24479166666666666" />
+        <entry key="..\:/Users/carlo/AndroidStudioProjects/riskv5/app/src/main/res/layout/activity_interfaz.xml" value="0.18" />
+        <entry key="..\:/Users/carlo/AndroidStudioProjects/riskv5/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/carlo/AndroidStudioProjects/riskv5/app/src/main/res/layout/activity_navegacion.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/carlo/AndroidStudioProjects/riskv5/app/src/main/res/layout/app_bar_navegacion.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/carlo/AndroidStudioProjects/riskv5/app/src/main/res/layout/content_navegacion.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/carlo/AndroidStudioProjects/riskv5/app/src/main/res/layout/fragment_blank1.xml" value="0.25" />
+        <entry key="..\:/Users/carlo/AndroidStudioProjects/riskv5/app/src/main/res/layout/fragment_blank3.xml" value="0.2" />
+        <entry key="..\:/Users/carlo/AndroidStudioProjects/riskv5/app/src/main/res/layout/fragment_gallery.xml" value="0.20364583333333333" />
+        <entry key="..\:/Users/carlo/AndroidStudioProjects/riskv5/app/src/main/res/layout/fragment_home.xml" value="0.20364583333333333" />
+        <entry key="..\:/Users/carlo/AndroidStudioProjects/riskv5/app/src/main/res/layout/fragment_inicio.xml" value="0.1" />
+        <entry key="..\:/Users/carlo/AndroidStudioProjects/riskv5/app/src/main/res/layout/fragment_slideshow.xml" value="0.20364583333333333" />
+        <entry key="..\:/Users/carlo/AndroidStudioProjects/riskv5/app/src/main/res/layout/gragmen2.xml" value="0.2" />
+        <entry key="..\:/Users/carlo/AndroidStudioProjects/riskv5/app/src/main/res/layout/nav_header_navegacion.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/carlo/AndroidStudioProjects/riskv5/app/src/main/res/menu/activity_main_drawer.xml" value="0.20364583333333333" />
+        <entry key="..\:/Users/carlo/AndroidStudioProjects/riskv5/app/src/main/res/menu/main2.xml" value="0.20364583333333333" />
+        <entry key="..\:/Users/carlo/AndroidStudioProjects/riskv5/app/src/main/res/menu/main_activity2.xml" value="0.20364583333333333" />
+        <entry key="..\:/Users/carlo/AndroidStudioProjects/riskv5/app/src/main/res/menu/menu.xml" value="0.25" />
+        <entry key="..\:/Users/carlo/AndroidStudioProjects/riskv5/app/src/main/res/menu/navegacion.xml" value="0.20364583333333333" />
+        <entry key="..\:/Users/carlo/AndroidStudioProjects/riskv5/app/src/main/res/mipmap-anydpi-v26/covid .xml" value="0.18055555555555555" />
+        <entry key="..\:/Users/carlo/AndroidStudioProjects/riskv5/app/src/main/res/mipmap-anydpi-v26/ic_launche.xml" value="0.21770833333333334" />
+        <entry key="..\:/Users/carlo/AndroidStudioProjects/riskv5/app/src/main/res/xml/network_security_config.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
