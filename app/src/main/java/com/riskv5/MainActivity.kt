@@ -39,27 +39,6 @@ class MainActivity : AppCompatActivity(),  OnMapReadyCallback, GoogleMap.OnMyLoc
     }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     private fun createFragment() {
         val mapFragment = supportFragmentManager.findFragmentById(R.id.map) as SupportMapFragment
         mapFragment.getMapAsync(this)
@@ -69,7 +48,7 @@ class MainActivity : AppCompatActivity(),  OnMapReadyCallback, GoogleMap.OnMyLoc
 
         map = googleMap
         createMarker1()
-
+        map.mapType = GoogleMap.MAP_TYPE_HYBRID
         map.setOnMyLocationButtonClickListener(this)
         map.setOnMapClickListener(this)
         enableLocatio()
@@ -175,7 +154,6 @@ class MainActivity : AppCompatActivity(),  OnMapReadyCallback, GoogleMap.OnMyLoc
             createMarker35()
             createMarker36()
             createMarker37()
-
             createMarker39()
             createMarker40()
             createMarker41()
@@ -185,7 +163,6 @@ class MainActivity : AppCompatActivity(),  OnMapReadyCallback, GoogleMap.OnMyLoc
             createMarker45()
             createMarker46()
             createMarker47()
-
             createMarker49()
             createMarker50()
             createMarker51()
@@ -195,7 +172,6 @@ class MainActivity : AppCompatActivity(),  OnMapReadyCallback, GoogleMap.OnMyLoc
             createMarker55()
             createMarker56()
             createMarker57()
-
             createMarker59()
             createMarker60()
             createMarker61()
@@ -203,47 +179,6 @@ class MainActivity : AppCompatActivity(),  OnMapReadyCallback, GoogleMap.OnMyLoc
             createMarker63()
             createMarker64()
             createMarker65()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
             createCircles1()
     }
 

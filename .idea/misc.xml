@@ -4,8 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/carlo/AndroidStudioProjects/riskv5/app/src/main/res/drawable/covid _background.xml" value="0.24479166666666666" />
-        <entry key="..\:/Users/carlo/AndroidStudioProjects/riskv5/app/src/main/res/layout/activity_interfaz.xml" value="0.18" />
+        <entry key="..\:/Users/carlo/AndroidStudioProjects/riskv5/app/src/main/res/layout/activity_database.xml" value="0.25" />
+        <entry key="..\:/Users/carlo/AndroidStudioProjects/riskv5/app/src/main/res/layout/activity_interfaz.xml" value="0.22" />
         <entry key="..\:/Users/carlo/AndroidStudioProjects/riskv5/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/carlo/AndroidStudioProjects/riskv5/app/src/main/res/layout/activity_main_menu.xml" value="0.5" />
         <entry key="..\:/Users/carlo/AndroidStudioProjects/riskv5/app/src/main/res/layout/activity_navegacion.xml" value="0.20572916666666666" />
         <entry key="..\:/Users/carlo/AndroidStudioProjects/riskv5/app/src/main/res/layout/app_bar_navegacion.xml" value="0.20833333333333334" />
         <entry key="..\:/Users/carlo/AndroidStudioProjects/riskv5/app/src/main/res/layout/content_navegacion.xml" value="0.36666666666666664" />
